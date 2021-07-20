@@ -1,2 +1,2 @@
 # Past-Work
-Past assignments and projects from various CSE classes.
+Past assignments and projects from various Computer Science and Engineering Classes taken at the University of California, Merced.
